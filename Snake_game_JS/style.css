@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #121212;
+    color: #eee;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    width: 26%;
+    text-align: center;
+    margin: 50px auto;
+    font-weight: 300;
+    font-size: 3rem;
+    border-bottom: 2px solid #eee;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+}
